@@ -13,4 +13,4 @@ $ python2 aslanz.py
 <img src="https://i.top4top.io/p_1646qks720.jpg">
 
 # Support me
-<a href="https://www.youtube.com/channel/UCqEy06R7vxx0Kc0SQmxJHtQ?view_as=subscriber"><img title="Youtube" src="https://img.shields.io/badge/Subscribe-Youtube-Channel-red.svg?style=for-the-badge&logo=youtube"></a>
+<a href="https://www.youtube.com/channel/UCqEy06R7vxx0Kc0SQmxJHtQ?view_as=subscriber"><img title="Youtube" src="https://img.shields.io/badge/Youtube-Channel-red.svg?style=for-the-badge&logo=youtube"></a>
